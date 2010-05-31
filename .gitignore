@@ -1,0 +1,7 @@
+*.ReSharper.user
+Martin.suo
+_ReSharper.Martin
+Martin\bin
+Martin\obj
+SampleWeb\bin
+SampleWeb\obj
